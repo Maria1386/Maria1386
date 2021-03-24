@@ -1,0 +1,15 @@
+print('Maryam')
+
+print(type("Alii"))
+print(type(7.9))#returns float number type
+print(type(7j))#returns complet type
+print(type(7.9))
+print('--------')
+print(3+6)
+print(6+7.2)
+print(6.9+7.0)
+print(4.9-7)
+print(4-7)
+print(64/8)#division always returns float
+print(3*4)
+print(1+3*4/6)
